@@ -148,6 +148,10 @@ Download it [here](https://www.pgadmin.org/download/ "pgAdmin download")!
 
 If you want an app running in another container, let's say for example a container running ubuntu image, you can add the option --link <postgres_container_name> when creating that container. It will be then linked to your database container.
 
+## Reach for the sky
+
+You can go further by mastering dockerfile and docker-compose to run your container
+
 Hope this information help! Enjoy the ride :-)!
 
 
