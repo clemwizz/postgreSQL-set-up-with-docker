@@ -47,7 +47,7 @@ Once the image is identified, you can then download it from the CLI with the fol
     docker pull postgres
 ```
 
-    * The following command list your local images
+* The following command list your local images
 
     ```
         docker images
